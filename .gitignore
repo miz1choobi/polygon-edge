@@ -11,7 +11,7 @@ bin/
 test-chain*
 test-rootchain*
 polygon-edge-chain*
-.idea
+idea
 
 # Exclude the build .exe file from version control
 dist/
